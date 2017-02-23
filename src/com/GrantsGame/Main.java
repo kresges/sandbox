@@ -6,6 +6,7 @@ public class Main {
 	System.out.println("Hi Grant!");
     print(new Integer(5));
     }
+    //yo what up
     public static void print(Object o){
         System.out.print(o.toString());
     }
